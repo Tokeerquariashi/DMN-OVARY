@@ -31,8 +31,7 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE.md) for de
 ## Acknowledgments
 * This code is inspired by [pytorch-semseg](https://github.com/meetps/pytorch-semseg) and [MICCAI 2017 Robotic Instrument Segmentation](https://github.com/ternaus/robot-surgery-segmentation).
 
-## Reference
-If you find our work useful, please cite our [paper](https://doi.org/10.1016/j.jpi.2022.100160):
+
 ```
 @article{ho2023,
   title={Deep Interactive Learning-based ovarian cancer segmentation of H&E-stained whole slide images to study morphological patterns of BRCA mutation},
