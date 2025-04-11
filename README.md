@@ -1,5 +1,5 @@
 # Ovarian Cancer Segmentation
-This repository provides source code for ovarian cancer segmentation using Deep Multi-Magnification Network. Deep Multi-Magnification Network automatically segments multiple tissue subtypes by a set of patches from multiple magnifications in histopathology whole slide images. ) and its training and inference codes can be found [here](https://github.com/MSKCC-Computational-Pathology/DMMN).
+This repository provides source code for ovarian cancer segmentation using Deep Multi-Magnification Network. Deep Multi-Magnification Network automatically segments multiple tissue subtypes by a set of patches from multiple magnifications in histopathology whole slide images. ) and its training and inference codes 
 
 [<img src="DMMN-ovary.JPG" width="100%" align="center" />](https://arxiv.org/abs/2203.15015)
 
